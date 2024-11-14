@@ -1,0 +1,47 @@
+[10-Jul-2024 12:57:07 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-service.php:21
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/template-loader.php(106): include()
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-blog-header.php(19): require_once('/home/bi1g8m9kn...')
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/index.php(17): require('/home/bi1g8m9kn...')
+#3 {main}
+  thrown in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-service.php on line 21
+[10-Jul-2024 12:58:49 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-service.php:21
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/template-loader.php(106): include()
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-blog-header.php(19): require_once('/home/bi1g8m9kn...')
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/index.php(17): require('/home/bi1g8m9kn...')
+#3 {main}
+  thrown in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-service.php on line 21
+[10-Jul-2024 12:59:22 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-service.php:21
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/template-loader.php(106): include()
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-blog-header.php(19): require_once('/home/bi1g8m9kn...')
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/index.php(17): require('/home/bi1g8m9kn...')
+#3 {main}
+  thrown in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-service.php on line 21
+[10-Jul-2024 14:48:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Query as array in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/class-wp-query.php:3738
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/class-wp-query.php(3712): WP_Query->rewind_posts()
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/query.php(948): WP_Query->have_posts()
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-service.php(5): have_posts()
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/template-loader.php(106): include('/home/bi1g8m9kn...')
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-blog-header.php(19): require_once('/home/bi1g8m9kn...')
+#5 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/index.php(17): require('/home/bi1g8m9kn...')
+#6 {main}
+  thrown in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/class-wp-query.php on line 3738
+[10-Jul-2024 14:48:39 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Query as array in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/class-wp-query.php:3738
+Stack trace:
+#0 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/class-wp-query.php(3712): WP_Query->rewind_posts()
+#1 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/query.php(948): WP_Query->have_posts()
+#2 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-service.php(5): have_posts()
+#3 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/template-loader.php(106): include('/home/bi1g8m9kn...')
+#4 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-blog-header.php(19): require_once('/home/bi1g8m9kn...')
+#5 /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/index.php(17): require('/home/bi1g8m9kn...')
+#6 {main}
+  thrown in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/class-wp-query.php on line 3738
+[10-Jul-2024 14:57:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-service.php on line 104
+[22-Aug-2024 16:26:50 UTC] PHP Warning:  Illegal string offset 'sizes' in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-home.php on line 89
+[22-Aug-2024 16:26:50 UTC] PHP Warning:  Illegal string offset 'banner-img' in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/template-home.php on line 89
+[23-Aug-2024 09:48:27 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-content/themes/evas/footer.php on line 202
+[14-Nov-2024 10:00:23 UTC] PHP Fatal error:  Cannot redeclare absint() (previously declared in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/load.php:1439) in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/functions.php on line 5477
+[14-Nov-2024 10:00:24 UTC] PHP Fatal error:  Cannot redeclare absint() (previously declared in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/load.php:1439) in /home/bi1g8m9kne3q/public_html/mwduat.com/evas/site/wp-includes/functions.php on line 5477
